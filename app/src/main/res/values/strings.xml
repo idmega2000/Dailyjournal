@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailyJournal</string>
+    <string name="title_tb">Title</string>
+    <string name="placeholder_title_et">Enter Journal Title</string>
+    <string name="body_tb">Body</string>
+    <string name="placeholder_body_et">Enter Journal Body</string>
+    <string name="nav_add_new">Enter Journal Body</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "361902976763",
+    "firebase_url": "https://dailyjournal-21ac1.firebaseio.com",
+    "project_id": "dailyjournal-21ac1",
+    "storage_bucket": "dailyjournal-21ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361902976763:android:6ccd137a16994a70",
+        "android_client_info": {
+          "package_name": "com.example.use.dailyjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361902976763-ulh4kd44u5vuibrpdip2pj4tns4r8nag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.use.dailyjournal",
+            "certificate_hash": "dfb5eec1195b0e136a86c61a5764087df64427d2"
+          }
+        },
+        {
+          "client_id": "361902976763-iq5i4qagupve0kvh9et6md1pajuu8p7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHBySAkufo5jc47qV7R-_YaIv-C1g12I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361902976763-iq5i4qagupve0kvh9et6md1pajuu8p7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
